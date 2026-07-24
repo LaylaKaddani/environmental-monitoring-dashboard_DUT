@@ -78,9 +78,6 @@ Data Visualization
 
 ## Screenshots
 
-### Hardware Setup
-
-![Hardware](images/hardware.jpg)
 
 ### Dashboard Home
 
@@ -126,7 +123,6 @@ The system collects environmental data every five seconds, stores the measuremen
 
 - Cloud storage
 - Web dashboard
-- Email notifications
 - Mobile application
 
 ## Author
