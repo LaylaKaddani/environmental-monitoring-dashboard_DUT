@@ -1,6 +1,5 @@
 # environmental-monitoring-dashboard_DUT
 
-# Environmental Monitoring Dashboard
 
 A real-time environmental monitoring system built with Raspberry Pi Pico and a Python desktop dashboard for data visualization and logging.
 
